@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Rafael-Mota-Moraes
 - 👀 I’m interested in Wed development
-- 🌱 I’m currently learning Html Css Js
+- 🌱 I’m currently learning Html, Css, Js and PHP 
