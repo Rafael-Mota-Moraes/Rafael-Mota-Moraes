@@ -13,6 +13,7 @@
 - ❤️ React/NextJS
 - 💻 Javascript 
 - 🖱️ Typescript 
+- 💻 NodeJS
 - Contato: rafaelmota622@gmail.com
 
 <hr />
