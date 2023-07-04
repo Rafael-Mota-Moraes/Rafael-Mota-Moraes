@@ -11,10 +11,11 @@
 <hr />
 
 - ❤️ React/NextJS
+- ❤️ C
 - 💻 Javascript 
 - 🖱️ Typescript 
 - 💻 NodeJS
-- 💻 Python
+
 - Contato: rafaelmota622@gmail.com
 
 <hr />
