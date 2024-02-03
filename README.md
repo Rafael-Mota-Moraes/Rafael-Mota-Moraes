@@ -12,7 +12,8 @@
 
 - ❤️ React/NextJS
 - ❤️ C
-- 💻 Javascript 
+- 💻 Javascript
+- 💻 PHP 
 - 🖱️ Typescript 
 - 💻 NodeJS
 
