@@ -11,11 +11,11 @@
 <hr />
 
 - ❤️ React/NextJS
-- ❤️ C
-- 💻 Javascript
-- 💻 PHP 
 - 🖱️ Typescript 
 - 💻 NodeJS
+- ❤️ C
+- 🖱️ Python
+- 💻 Django/Django rest framework
 
 - Contato: rafaelmota622@gmail.com
 
