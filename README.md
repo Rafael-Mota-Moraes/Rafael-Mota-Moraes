@@ -18,5 +18,6 @@
 - 💻 Django/Django rest framework
 
 - Contato: rafaelmota622@gmail.com
+- Desenvolvedor de Software na @Plathanus
 
 <hr />
